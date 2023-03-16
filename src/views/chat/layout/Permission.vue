@@ -65,6 +65,9 @@ function handlePress(event: KeyboardEvent) {
           <Icon403 class="w-[200px] m-auto" />
         </header>
         <NInput v-model:value="token" type="password" placeholder="" @keypress="handlePress" />
+				<p style="text-align:center;">
+	<a href="https://www.zuuu.net/details/4FBA4B2A" target="_blank"><span style="color:#006600;font-size:16px;"><strong>点击获取永久授权码</strong></span></a>
+</p>
         <NButton
           block
           type="primary"
